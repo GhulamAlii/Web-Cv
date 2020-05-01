@@ -1,0 +1,147 @@
+body{
+    margin: 0;
+    text-align: center;
+    font-family: 'Public Sans', sans-serif;
+    color: #40514e;
+    
+}
+
+h1{
+    margin: 50px auto 10px auto;
+    font-family: 'Sacramento', cursive , sans-serif;
+    font-size: 5.34rem;
+    color: #4cd3c2;
+}
+h2{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.3rem;
+    color: #4cd3c2;
+    
+}
+h3{
+    font-family: 'Ubuntu', sans-serif;
+    color: #40bad5;
+}
+
+.top-section{
+    background-color:#c3edea;
+    margin-bottom: 20px;
+    position: relative;
+    padding-top: 100px;
+    
+}
+.intro{
+    width: 30%;
+    margin: auto;
+}
+.middle-section{
+    margin: 100px 0;
+}
+.bottom-section {
+    margin: 100px 0;
+    
+}
+.bottom-container {
+    background-color: #66bfbf;
+    padding: 50px 0 20px ;
+}
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: justify;
+   
+}
+hr{
+    border: dotted #eaf6f6 8px;
+    border-bottom: none;
+    width: 8%;
+    margin: 100px auto ;
+
+}
+
+p{
+    line-height: 2;
+    
+}
+.cloude2{
+    position: absolute;
+}
+
+.cloude{
+    position: absolute;
+    top: 25px;
+    right: 350px;
+}
+p.heading2{
+    font-size: 2rem;
+    font-family: 'Ubuntu', sans-serif; 
+    color: #4cd3c2;
+}
+
+.code-image{
+    border-radius: 100%;
+    width: 200px;
+    height: 200px;
+    float: left;
+    margin-right: 30px;
+}
+.gamer{
+    width: 200px;
+    height: 200px;
+    float: right;
+    margin-left: 30px;
+}
+
+p a{
+    text-decoration: none;
+}
+.btn {
+    margin-top:20px ;
+	background-color:#4CD3C2;
+	-webkit-border-top-left-radius:17px;
+	-moz-border-radius-topleft:17px;
+	border-top-left-radius:17px;
+	-webkit-border-top-right-radius:17px;
+	-moz-border-radius-topright:17px;
+	border-top-right-radius:17px;
+	-webkit-border-bottom-right-radius:17px;
+	-moz-border-radius-bottomright:17px;
+	border-bottom-right-radius:17px;
+	-webkit-border-bottom-left-radius:17px;
+	-moz-border-radius-bottomleft:17px;
+	border-bottom-left-radius:17px;
+text-indent:0;
+	border:2px solid #40BBDA;
+	display:inline-block;
+	color:#ffffff;
+	font-family: 'Montserrat', sans-serif;
+	font-size:15px;
+	font-weight:bold;
+	font-style:normal;
+height:45px;
+	line-height:45px;
+width:143px;
+	text-decoration:none;
+	text-align:center;
+}.btn:hover {
+    background-color:#C3EDEA;
+    color:#4CD3C2 ;
+}.btn:active {
+	position:relative;
+	top:1px;
+}
+
+.bottom-container a{
+    text-decoration: none;
+    color:#11999e;
+    margin: 10px 20px;
+}
+
+.bottom-container a:hover{
+    color: #fff;
+}
+.copy-right{
+    color: white;
+    font-size: 0.90em;
+    padding: 20px 0;
+}
